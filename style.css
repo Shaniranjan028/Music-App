@@ -1,0 +1,109 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Maven Pro", sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 1.8rem;
+  color: white;
+  padding: 30px 0;
+}
+
+body {
+  background-color: rgb(99, 99, 49);
+  padding-bottom: 40px;
+}
+
+main {
+  background-color: rgb(243, 234, 234);
+  width: 90%;
+  height: 750px;
+  margin: auto;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+div {
+  width: 30%;
+  height: 160px;
+  /*border: 1px solid red;*/
+  box-shadow: 4px 4px 5px grey;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.a {
+  background-image: url("images/arijit.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.b {
+  background-image: url("images/arijit.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.c {
+  background-image: url("images/arijit.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.d {
+  background-image: url("images/arijit.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.e {
+  background-image: url("images/arijit.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.f {
+  background-image: url("images/arijit.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.g {
+  background-image: url("images/arijit.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.h {
+  background-image: url("images/arijit.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.i {
+  background-image: url("images/arijit.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.j {
+  background-image: url("images/arijit.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.k {
+  background-image: url("images/arijit.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+.l {
+  background-image: url("images/arijit.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
